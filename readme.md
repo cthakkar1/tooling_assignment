@@ -18,7 +18,7 @@ I am professional dancer and choregorapher with multiple medals.
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](images/Git-badge.png  "Result")
+![Git Tutorial](images/Git-badge.png)
 
 
 
