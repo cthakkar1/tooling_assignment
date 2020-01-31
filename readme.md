@@ -20,7 +20,12 @@ I am professional dancer and choregorapher with multiple medals.
 
 ![Git Tutorial](images/Git-badge.PNG)
 
+------------------------------------------------------------------------------------------------------------------------------
+# Tooling Setup Assignment
 
+## 1. Installation of PowerShell Core for Windows
+images/1-PS-install.PNG
+![Image of me](images/1-PS-install.PNG)
 
 
 
