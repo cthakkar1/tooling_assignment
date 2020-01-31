@@ -1,6 +1,8 @@
 # Name- Chandni Thakkar
 	
+![Image of me](images/me.jpeg)
 
+![Image describing me](images/dance.jpeg)
 
 ## Where are you from?
 
