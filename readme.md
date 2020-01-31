@@ -57,4 +57,14 @@ I am professional dancer and choregorapher with multiple medals.
 
 ![Image10-1](images/10(1) -packer.PNG)
 
+![Image10-1](images/11- ubuntu-vanilla.PNG)
+
+## 7. Install IDE editor
+
+![Image12](images/12- VS-version.PNG)
+
+## 8. Git-It Tutorial
+
+![Image12](images/Git-badge.PNG)
+
 
