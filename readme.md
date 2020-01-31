@@ -61,7 +61,7 @@ I am professional dancer and choregorapher with multiple medals.
 
 ## 7. Install IDE editor
 
-![Image12](images/12- VS-version.PNG)
+![Image12](images/VS.PNG)
 
 ## 8. Git-It Tutorial
 
