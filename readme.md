@@ -53,11 +53,11 @@ I am professional dancer and choregorapher with multiple medals.
 
 ## 6. Install Packer.io
 
-![Image10](images/10 - packer.PNG)
+![Image10](images/packer.PNG)
 
-![Image10-1](images/10(1) -packer.PNG)
+![Image10-1](images/packer1.PNG)
 
-![Image10-1](images/11- ubuntu-vanilla.PNG)
+![Image10-1](images/11.PNG)
 
 ## 7. Install IDE editor
 
