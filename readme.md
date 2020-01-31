@@ -24,8 +24,37 @@ I am professional dancer and choregorapher with multiple medals.
 # Tooling Setup Assignment
 
 ## 1. Installation of PowerShell Core for Windows
-images/1-PS-install.PNG
-![Image of me](images/1-PS-install.PNG)
 
+![Image1](images/1-PS-install.PNG)
+
+## 2. Package Managers for Windows and MacOS
+
+![Image2](images/2-choco-version.PNG)
+
+## 3. Install Git, Vagrant, Packer, VScode, Vim
+
+![Image3](images/3-install.PNG)
+
+![Image4](images/4-install1.PNG)
+
+![Image5](images/5-git-version.PNG)
+
+![Image6](images/6- git_config.PNG)
+
+## 4. Install VirtualBox
+
+![Image7](images/7- virtualbox.PNG)
+
+## 5. Install Vagrant
+
+![Image8](images/8-vagrant_version.PNG)
+
+![Image9](images/9-vagrant_boxlist.PNG)
+
+## 6. Install Packer.io
+
+![Image10](images/10 - packer.PNG)
+
+![Image10-1](images/10(1) -packer.PNG)
 
 
